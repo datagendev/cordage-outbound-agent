@@ -6,13 +6,13 @@ description: "Orchestrator for the Cordage outbound lead agent. Monitors FDA war
 # Cordage Outbound Lead Agent
 
 ## Context
-Read @.claude/cordage-agent/references/cordage-context.md for Cordage product, ICP, pain segment.
-Read @.claude/cordage-agent/references/digest-email-template.md for lead output format.
-Read @.claude/cordage-agent/references/fallback-responses.md for partial result handling.
+Read @.claude/skills/cordage-agent/references/cordage-context.md for Cordage product, ICP, pain segment.
+Read @.claude/skills/cordage-agent/references/digest-email-template.md for lead output format.
+Read @.claude/skills/cordage-agent/references/fallback-responses.md for partial result handling.
 
 ## Memory
-Check @.claude/cordage-agent/memory/icp-preferences.md before qualifying leads.
-Check @.claude/cordage-agent/memory/SUMMARY.md for last run context.
+Check @.claude/skills/cordage-agent/memory/icp-preferences.md before qualifying leads.
+Check @.claude/skills/cordage-agent/memory/SUMMARY.md for last run context.
 
 ## Pipeline
 
